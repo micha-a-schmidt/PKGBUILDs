@@ -1,5 +1,5 @@
-# ARMv7 multi-platform
-# Maintainer: Kevin Mihelich <kevin@archlinuxarm.org>
+# ARMv7 Cubieboard 4
+# Maintainer: Michael Schmidt <michaelschmidt.hd@googlemail.com>
 
 buildarch=4
 
