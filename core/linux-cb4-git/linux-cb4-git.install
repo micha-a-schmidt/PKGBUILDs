@@ -2,7 +2,7 @@
 # arg 2:  the old package version
 
 KERNEL_NAME=-cb4-git
-KERNEL_VERSION=4.9.0-rc7-1-g096343ed-dirty
+KERNEL_VERSION=4.9.0-rc7-sunxi-next-1-g096343ed-dirty
 
 post_install () {
   # updating module dependencies
