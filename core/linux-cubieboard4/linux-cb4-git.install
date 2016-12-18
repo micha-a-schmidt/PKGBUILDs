@@ -1,8 +1,8 @@
 # arg 1:  the new package version
 # arg 2:  the old package version
 
-KERNEL_NAME=-armv7
-KERNEL_VERSION=3.14.0-1-ARCH
+KERNEL_NAME=-cb4-git
+KERNEL_VERSION=4.9.0-rc7-1-g096343ed-dirty
 
 post_install () {
   # updating module dependencies
